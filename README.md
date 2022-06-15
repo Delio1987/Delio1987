@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi 👋, I'm Délio Carvalho</h1>
+  <h1 align="center">Hi, I'm Délio Carvalho</h1>
   <p align="center">Worked almost 20 years in customer support and now looking to change career after doing Full-stack Web Development in Le Wagon!</p>
 </div>
 
